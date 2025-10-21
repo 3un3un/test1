@@ -8,7 +8,7 @@ import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
 import org.apache.commons.codec.binary.Base32;
-
+//수정1
 public class GoogleOtpTest {
 
 	public static void main(String[] args) throws InvalidKeyException, NoSuchAlgorithmException {
